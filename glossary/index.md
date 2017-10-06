@@ -30,17 +30,18 @@ These are often used when *branching* in programs, for example in a *repeat unti
 
 **Branching** in Coding refers to the computer following different instructions based on certain conditions.
 In some cases, **branching** is also referred to as *selection*.
-There are many examples of **branching** in real life.
+There are many examples of **branching** in real life.
 For example, say that you are hosting a barbecue and a friend has offered to buy the bread from the supermarket.
 You have heard that there has been a shortage of loaves of bread in the local area and so you give them the following instructions:
-- If there are loaves of bread at the supermarket, buy a loaf of bread- If there's no loaves of bread left at the supermarket, buy 3 packs of breadrolls instead
-This example is **branching** because, depending on the condition (the availability of loaves of bread), different instructions are to be followed.
+- If there are loaves of bread at the supermarket, buy a loaf of bread
+- If there's no loaves of bread left at the supermarket, buy 3 packs of breadrolls instead
+This example is **branching** because, depending on the condition (the availability of loaves of bread), different instructions are to be followed.
 
 ### <u>Coding</u>
 
 In this workshop, we have defined **Coding** as: the act of writing instructions for a computer to follow, in some programming language (for example: Scratch).
 It's important to note that, if we think about **Coding** in terms of the definition above, that we need a combination of **Coding** and **Computational Thinking** to be able to instruct a computer to solve a problem.
-Generally, *programming* and **Coding** are interchangeable terms, they both refer to the act of writing Code.
+Generally, *programming* and **Coding** are interchangeable terms - they both refer to the act of writing Code.
 
 ### <u>Command</u>
 
@@ -137,7 +138,7 @@ When we refer to a **program**, we mean that the instructions for the computer t
 
 **Repetition** means running a sequence of commands a certain number of times.
 Computers are very good at repeating actions, whether you want them to repeat something two times, one hundred times, or even to have them repeat something over and over forever.
-There are many examples of **repetition** in real life, as well as in *Code*. 
+There are many examples of **repetition** in real life, as well as in *Code*. 
 For example, when you swim 10 laps in a pool, you are repeating the lap 10 times. 
 You would also be repeating the actions that make up the stroke (for example: freestyle) over and over as you swam the lap.
 
@@ -157,7 +158,8 @@ For example: both *Hello World* and *Bob* are **Strings**.
 
 ### <u>User Input</u>
 
-**User input** is a term that means that the person using the *program* (*the user*) interacts with the *program*, usually by (but not always) using a keyboard/mouse.For example, you might register for an event (for example: a workshop) using an online form. 
+**User input** is a term that means that the person using the *program* (*the user*) interacts with the *program*, usually by (but not always) using a keyboard/mouse.
+For example, you might register for an event (for example: a workshop) using an online form. 
 The *user input* in this example would be the details you would enter into the form (such as your name and email address).
 Another example of *user input* is controlling a character in a videogame with a joystick. 
 The videogame would have some *Code* that would take that input from the joystick (for example: moving the joystick to the right) and then performing some action (in this example: moving the character to the right).

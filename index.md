@@ -12,7 +12,7 @@ In this workshop you will:
 - Be introduced to Computer Science, Coding and Computational Thinking
 - Learn about how Coding can be used to help students learn Mathematics
 - Learn about how to use Scratch and how to Code in Scratch
-- Be introduced to Module 1 of the ScratchMaths resources, which combines Coding and Mathematics
+- Be introduced to Module 1 of the [ScratchMaths](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths){:target="_blank"} resources, which combines the learning of Coding and Mathematics
 
 ## Schedule 
 

@@ -23,12 +23,12 @@ We have also included a [Glossary page]({{ site.baseurl | append: site.glossary_
 
 ## Files
 
-- [Coding in Scratch - Overview of Scratch Activity (Word document)](Scratch Activity - Fundamental Coding Concepts.docx)
-- [Coding in Scratch - Fundamental Coding Concepts Activity (Word document)]()
+- [Coding in Scratch - Overview of Scratch Activity (Word document)]()
+- [Coding in Scratch - Fundamental Coding Concepts Activity (Word document)](Scratch Activity - Fundamental Coding Concepts.docx)
 
 ## Activity Solutions
 
-- The solutions to the *Check Your Understanding* exercises from the activity are [available here](solutions).
+The solutions to the *Check Your Understanding* exercises from the activity are [available here](solutions).
 
 ## Extra Activities
 
