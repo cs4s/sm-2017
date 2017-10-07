@@ -105,7 +105,6 @@ When the student tries to work out what is causing the Cat to move the wrong way
 For example, you might buy a book on an online store and, when filling in your shipping details, accidentally put your email address in the form where your home address should go.
 The system would then tell you that you have made an error (*invalid input*) when filling out the form.
 
-
 ### <u>Iteration</u>
 
 See the definition of *Repetition* below.

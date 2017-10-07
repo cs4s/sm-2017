@@ -10,7 +10,7 @@ title: ScratchMaths 2017 - Day 1
 |---
 | Time | Session | 
 |-|-
-| **9:15am - 9:30am** | [**Workshop Introduction & Research Overview**]({{ site.baseurl | append: site.introduction_path }}) |
+| **9:15am - 9:30am** | **Workshop Introduction & Research Overview** |
 | **9:30am - 10:00am** | [**Computer Science Unplugged Activity**]({{ site.baseurl | append: site.cs_unplugged_path }})
 | **10:00am - 10:30am** | [**Combining Coding and Maths Presentation**]({{ site.baseurl | append: site.coding_and_maths_path }})
 | 10:45am - 11:00am | Morning Tea | 
