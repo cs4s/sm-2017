@@ -17,4 +17,7 @@ If you are interested in learning more about Coding to learning Maths, we have i
 - [Combining Coding and Maths Presentation (PDF File)](presentation.pdf){:target="_blank"}
 
 
+## Links
+
+- [UCL ScratchMaths Homepage](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths){:target="_blank"}
 
