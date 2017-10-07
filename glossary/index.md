@@ -9,7 +9,7 @@ This page contains a list of definitions of key terms/concepts that will be used
 We have split the definitions in this glossary into two main sections:
 
 - **General Coding and Computational Thinking Concepts/Terms:** these are the concepts and terms that are not specific to a certain programming language (for example: Scratch)
-- **Scratch Concepts/Terms:** these are the concepts and terms that are specific to Scratch (although they may also be used in other, similar languages like [Snap!](http://snap.berkeley.edu/){:target="_blank"}). Most of the definitions in this section have come from the **Key Vocabulary** slides from the ScratchMaths *Classroom presentations*.
+- **Scratch Concepts/Terms:** these are the concepts and terms that are specific to Scratch (although they may also be used in other, similar languages like [Snap!](http://snap.berkeley.edu/){:target="_blank"}). Most of the definitions in this section have come from the *Key Vocabulary* slides in the ScratchMaths *Classroom presentations*.
 
 We have tried to include many of the terms that are commonly used in the [Digital Technologies content descriptions](http://v7-5.australiancurriculum.edu.au/technologies/digital-technologies/curriculum/f-10?layout=1){:target="_blank"} in this glossary.
 Let us know if you think there are terms commonly used that should be added to the glossary for future workshops or if any of the below could be improved.
@@ -33,22 +33,24 @@ In some cases, **branching** is also referred to as *selection*.
 There are many examples of **branching** in real life.
 For example, say that you are hosting a barbecue and a friend has offered to buy the bread from the supermarket.
 You have heard that there has been a shortage of loaves of bread in the local area and so you give them the following instructions:
+
 - If there are loaves of bread at the supermarket, buy a loaf of bread
 - If there's no loaves of bread left at the supermarket, buy 3 packs of breadrolls instead
+
 This example is **branching** because, depending on the condition (the availability of loaves of bread), different instructions are to be followed.
 
 ### <u>Coding</u>
 
 In this workshop, we have defined **Coding** as: the act of writing instructions for a computer to follow, in some programming language (for example: Scratch).
 It's important to note that, if we think about **Coding** in terms of the definition above, that we need a combination of **Coding** and **Computational Thinking** to be able to instruct a computer to solve a problem.
-Generally, *programming* and **Coding** are interchangeable terms - they both refer to the act of writing Code.
+Generally, *programming* and **Coding** are interchangeable terms - they usually both refer to the act of writing Code.
 
 ### <u>Command</u>
 
 A **Command** is an instruction which we can give the computer to follow.
 The computer will follow the **Command** exactly as we tell it to.
 
-For example, we may have a robot which we can Code to navigate a maze.
+For example, we may have a robot which we can *Code* to navigate a maze.
 A couple of the commands we could use to navigate the robot could be *move forward for 1 metre* and *turn right*.
 
 ### <u>Computational Thinking</u>
@@ -57,7 +59,7 @@ The meaning of **Computational Thinking** we use for this workshop is the defini
 
 *"Computational thinking is the thought processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent [i.e. a Computer]."*
 
-Definitions of **Computational Thinking** are often presented as collection of related concepts.
+**Computational Thinking** is often further divided into a collection of related concepts.
 For example, the 6 **Computational Thinking** concepts defined by [Barefoot Computing](https://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/){:target="_blank"} are:
 
 - **Logic:** predicting and analysing (see definition of *Logical Reasoning* below).
@@ -77,13 +79,13 @@ There are several, common misconceptions of **Computer Science**, including that
 - Only working with other *programmers*
 
 However, while some of these would be true for some **Computer Scientists**, it is not true for all of them.
-Some **Computer Scientists** may not use computers much at all in their daily work and may also work with a variety of professionals (not just other *programmers*).
+Some **Computer Scientists** may not use computers much at all in their daily work and many *programmers* work with a variety of professionals (not just other *programmers*).
 
-There is a many diverse fields within the study of **Computer Science**.
-Examples of some **Computer Science** fields, are those that:
+There are many diverse fields within the study of **Computer Science**.
+Examples of some **Computer Science** fields, include those that:
 
 - are very theoretical and involve a lot of Mathematics (for example: [Theoretical Computer Science](https://en.wikipedia.org/wiki/Theoretical_computer_science){:target="_blank"} and [Cryptography](https://en.wikipedia.org/wiki/Cryptography){:target="_blank"})
-- have been a result of interdisciplinary collaboration between Computer Scientists and researchers from another field (for example: [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics){:target="_blank"} combines Computer Science and Biology)
+- have been a result of interdisciplinary collaboration between Computer Scientists and researchers from another field (for example: [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics){:target="_blank"}, which combines Computer Science and Biology)
 - are focused on building and maintaining large, secure and reliable *programs* (for example: [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering){:target=_"blank"} and [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security){:target="_blank"}.
 - involve creating new ways for people to use computers or are concerned with understanding how people use computers (for example: [Human-Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction){:target="_blank"})
 
@@ -91,9 +93,9 @@ We recommend reading the [K-12 CS Framework's Defining Computer Science article]
 
 ### <u>Debugging</u>
 
-**Debugging** is the process of finding the causes for and fixing problems in *programs*.
+**Debugging** is the process of finding the causes of and fixing problems in *programs*.
 For example, a student may write a Scratch *program* where they move a Cat around a canvas.
-The student might find that the program isn't working as expected.
+The student might find that the program is not working as expected.
 For example, they want the Cat to move to the right but it is moving to the left instead.
 When the student tries to work out what is causing the Cat to move the wrong way, they are **debugging**.
 
@@ -102,6 +104,11 @@ When the student tries to work out what is causing the Cat to move the wrong way
 **Invalid input** is a term for *user input* that is put into a system which is nonsensical or that causes the system to act in an unexpected way.
 For example, you might buy a book on an online store and, when filling in your shipping details, accidentally put your email address in the form where your home address should go.
 The system would then tell you that you have made an error (*invalid input*) when filling out the form.
+
+
+### <u>Iteration</u>
+
+See the definition of *Repetition* below.
 
 ### <u>Logical Reasoning</u>
 
@@ -129,7 +136,7 @@ A **Number** value can represent a number, including integers (whole numbers) an
 ### <u>Program</u>
 
 A **program** is *Code* that has been written to perform one or more different tasks.
-For example, in the [Coding in Scratch Activity]({{ site.baseurl | append: site.coding_path }})) in Day 1 you created a program where you tell the Cat how many times to dance.
+For example, in the [Coding in Scratch Activity]({{ site.baseurl | append: site.coding_path }})) on Day 1 you created a program where you tell the Cat how many times to dance.
 Another (more complicated) example is a program like *Microsoft Word*, which can perform many different tasks (for example: bolding text and making tables)
 A **program** differs from an *algorithm*, in that an algorithm does not necessarily need to be written in some *Coding* language.
 When we refer to a **program**, we mean that the instructions for the computer to follow have been written in a *Coding* language (for example: Scratch).
@@ -137,7 +144,7 @@ When we refer to a **program**, we mean that the instructions for the computer t
 ### <u>Repetition</u>
 
 **Repetition** means running a sequence of commands a certain number of times.
-Computers are very good at repeating actions, whether you want them to repeat something two times, one hundred times, or even to have them repeat something over and over forever.
+Computers are very good at repeating actions, whether you want them to repeat something two times, one hundred times, or even to have them repeat something over and over forever. In some cases, **Repetition* is referred to as *iteration*.
 There are many examples of **repetition** in real life, as well as in *Code*. 
 For example, when you swim 10 laps in a pool, you are repeating the lap 10 times. 
 You would also be repeating the actions that make up the stroke (for example: freestyle) over and over as you swam the lap.
@@ -149,6 +156,24 @@ See the definition of *Branching* above.
 ### <u>Sequencing</u>
 
 **Sequencing** in *Coding* refers to the way that computers follow instructions in order.
+It is important to order instructions in the correct order, as computers will follow them exactly as we tell them.
+
+An example of why **Sequencing** is important is given on the [BBC Bitesize Website](https://www.bbc.co.uk/education/guides/zsf8d2p/revision){:target="_blank"}.
+An *algorithm* for brushing teeth could be:
+
+1. put toothpaste on toothbrush
+2. use toothbrush to clean teeth
+3. rinse toothbrush
+
+But what if these steps were in the wrong order (out of **sequence**)?
+
+1. use toothbrush to clean teeth
+2. put toothpaste on toothbrush
+3. rinse toothbrush
+
+If we gave a robot these instructions, it would follow them in the specified order without questioning.
+Consequently, the toothpaste would be wasted and the robot's teeth wouldn't be cleaned properly, as they have not brushed their teeth with toothpaste on the toothbrush.
+
 
 ### <u>String</u>
 
@@ -173,7 +198,7 @@ Every time you shoot an alien this *score* variable could increase by 1.
 **Variables** in Mathematics and Coding are similar, in that they both are a name/letter that can represent a number.
 However, in Coding a **Variable** can also represent a piece of text (a *String* value).
 There are also some other differences in how **Variables** can be used in Coding.
-For example, a statement like the equation below is perfectly fine in some *Coding* languages but doesn't make sense in Mathematics:
+For example, a statement like the equation below is perfectly fine in some *Coding* languages, but doesn't make sense in Mathematics:
 
 *x = x + 1*
 
