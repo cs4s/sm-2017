@@ -8,15 +8,15 @@ title: ScratchMaths 2017 - Day 1 - Teacher Accounts
 ## About
 
 In this activity we will introduce you to Teacher Accounts in Scratch.
-A Teacher Account allows you to manage Classes of students and can make common administrative tasks, for example: setting up students' accounts and resetting passwords, easier.
+A Teacher Account allows you to manage Classes of students and can make common administrative tasks, for example: setting up students' accounts and changing their passwords, easier.
 We highly recommend requesting a Teacher Account on the Scratch website, if you are going to begin using the online version of Scratch with your students. 
 
-We will go over what we think are the most important features of Teacher Accounts in this session:
+This activity includes examples of how to use the important features of Teacher Accounts, including:
 
 - Creating a new *Class*
 - Adding *Students* to a *Class*
 - Creating *Studios* for a *Class*
-- Resetting *Students'* passwords
+- Changing *Students'* passwords
 - Viewing your *Students'* activity on Scratch
 
 Teacher Accounts in Scratch are relatively new, so there may be changes to the Teacher Account features or new features introduced soon.
@@ -24,7 +24,7 @@ For more information about what Teacher Accounts can and cannot do, and the chan
 
 ## Files
 
-- [Scratch Teacher Accounts Activity (Word document)](Scratch Activity - Using Teacher Accounts.docx)
+- [Scratch Teacher Accounts Activity (Word document)](Scratch Teacher Accounts Activity.docx)
 
 ## Links
 
