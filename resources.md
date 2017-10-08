@@ -36,13 +36,15 @@ If you are interested in finding out more about Coding, Computational Thinking, 
 - [Computational Thinking in Primary Schools, by Miles Berry](http://milesberry.net/2014/03/computational-thinking-in-primary-schools/){:target="_blank"}
 - [From Computational Thinking to Computational Participation in K-12 Education, by Yasmin B. Kafai](https://cacm.acm.org/magazines/2016/8/205037-from-computational-thinking-to-computational-participation-in-k-12-education/fulltext){:target="_blank"}
 
-## Books - General Coding & Computational Thinking
+## Books 
+
+### General Coding & Computational Thinking
 
 - [Connected Code: Why Children Need to Learn Programming](https://mitpress.mit.edu/connected-code){:target="_blank"}
 - [Invent To Learn: Making, Tinkering, and Engineering in the Classroom](http://inventtolearn.com/){:target="_blank"}
 - [Learner-Centered Design of Computing Education: Research on Computing for Everyone](http://www.morganclaypool.com/doi/abs/10.2200/S00684ED1V01Y201511HCI033){:target="_blank"}
 
-## Books - Coding & Math
+### Coding & Math
 
 - [The Children's Machine: Rethinking School In The Age Of The Computer](https://www.amazon.com/Childrens-Machine-Rethinking-School-Computer/dp/0465010636){:target="_blank"}
 - [Changing Minds](https://mitpress.mit.edu/books/changing-minds){:target="_blank"}
