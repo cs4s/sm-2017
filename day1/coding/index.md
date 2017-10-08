@@ -17,13 +17,14 @@ In this activity we will learn about Scratch and the following fundamental Codin
 - *Branching*
 
 The purpose of this activity is to familiarise you with Scratch, as well as to introduce you to the above concepts.
-Most of these concepts (for example: *branching* and *repetition*) will be present in the activities that we will work through in tomorrow's activities.
 
 We have also included a [Glossary page]({{ site.baseurl | append: site.glossary_path }}), which provides a list of key terms (including the concepts listed above) used in the workshops' activities and their meanings.
 
+The *Dancing Cat program* that is referred to in the activity can [be viewed on this website](https://scratch.mit.edu/projects/173543499/){:target="_blank"}.
+
 ## Files
 
-- [Coding in Scratch - Overview of Scratch Activity (Word document)]()
+- [Coding in Scratch - Introduction to Scratch Presentation (PDF Presentation)](Introduction to Scratch Presentation.pdf){:target="_blank"}
 - [Coding in Scratch - Fundamental Coding Concepts Activity (Word document)](Scratch Activity - Fundamental Coding Concepts.docx)
 
 ## Activity Solutions
