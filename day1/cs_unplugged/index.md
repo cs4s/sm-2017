@@ -16,6 +16,7 @@ In this session we will work through two *Computer Science Unplugged* (*CSUnplug
 
 ## Files
 
+- [CSUnplugged Presentation (Powerpoint presentation)](unplugged.pptx)
 - [CSUnplugged Image Representation Activity](http://csunplugged.org/wp-content/uploads/2014/12/unplugged-02-image_representation.pdf){:target="_blank"}
 - [CSUnplugged Error Detection Activity](http://csunplugged.org/wp-content/uploads/2014/12/unplugged-04-error_detection.pdf){:target="_blank"}
 
