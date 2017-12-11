@@ -13,6 +13,8 @@ We recommend that you download all of the materials at the start of Day 2, howev
 
 [Download all the ScratchMaths Module 1 materials](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-1-tiling-patterns/files/Module_1.zip)
 
+The Module 1 Materials were developed by the [UCL ScratchMaths team](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths){:target="_blank"} and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}.
+
 ## Investigation 1: Moving, Turning and Stamping
 
 ### About
